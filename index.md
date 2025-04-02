@@ -2,19 +2,14 @@
 title: Home
 ---
 
-# Workshop Template!
+# Synthetic Data: Representation and/vs Representativeness
+## A Workshop at the Aarhus 2025 Conference
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
-
-A minimal Jekyll theme for creating workshop websites.
-
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
+Synthetic data is increasingly used throughout the AI development pipeline to address three primary challenges surrounding data use - data scarcity, privacy concerns, and data representativeness or diversity.
+With the introduction of the AI Act, these three challenges take on new urgency.
+Creating synthetic data clearly addresses the data scarcity problem and over a decade of research has interrogated the possibilities of differential privacy, yet little attention has been paid to whether and how data diversity is addressed in these systems.
+When applied to data, the term representation has multiple definitions, including both “representativeness,” which describes quantitative metrics of how many instances of a particular kind or grouping are in a dataset, and “representation,” which concerns the qualities that tend to be assigned to groups and individuals.
+In this workshop we will explore synthetic data with a view to this plurality of representation as essential to responsible AI development practices.
 
 <div class="toc" markdown="1">
 ## Contents:
@@ -24,7 +19,7 @@ Fun!
 {% endfor %}
 </div>
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+Organizers: Hannah Devinney, Katherine Harrison, Vagrant Gautam, and Irina Shklovski
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
