@@ -8,18 +8,18 @@
 
 # Site settings
 # title appears in the header
-title: workshop-template
+title: Synthetic Data: Representation and/vs Representativeness
 # description and keywords for meta tags
-description: "Create an OER workshop website quick and easy!"
-keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
+description: "Workshop on synthetic data at the Aarhus Conference 2025"
+keywords: "synthetic, data, AI, NLP, ML, Aarhus, critical theory, computing, conference, workshop"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: Vagrant Gautam
+pub_year: 2025
+github_username: dippedrusk
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
+repo: "https://github.com/synthetic-data-workshop/website/"
 
 # site urls
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
