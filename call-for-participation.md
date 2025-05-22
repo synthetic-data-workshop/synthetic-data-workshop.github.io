@@ -24,7 +24,7 @@ Accepted submissions will be shared with all participants via the workshop websi
 
 ## Important Dates
 
-**Submissions due** – ~28 May, 2025~ 8 June, 2025
+**Submissions due** – 8 June, 2025 (extended!!!)
 
 **Notification of Acceptance** – 13 June, 2025
 
