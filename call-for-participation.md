@@ -6,7 +6,7 @@ nav: true
 # Call for Participation
 ## Synthetic Data: Representation and/vs Representativeness
 
-Full-day, onsite workshop at [Aarhus 2025 Computing [X] Crisis Conference](https://synthetic-data-workshop.github.io/)
+Full-day, onsite workshop at [Aarhus 2025 Computing [X] Crisis Conference](https://aarhus2025.projects.cavi.au.dk/)
 
 Organized by:
 - Hannah Devinney (_Linköping University_)
@@ -24,11 +24,11 @@ Accepted submissions will be shared with all participants via the workshop websi
 
 ## Important Dates
 
-**Submissions due** – 28 May, 2025
+**Submissions due** – ~28 May, 2025~ 8 June, 2025
 
 **Notification of Acceptance** – 13 June, 2025
 
-**Workshop** – 18 or 19 August, 2025 (TBC)
+**Workshop** – 18 August, 2025
 
 ## Submission information
 
