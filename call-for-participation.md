@@ -1,6 +1,6 @@
 ---
 title: Call for Participation
-nav: true
+nav: false
 ---
 
 # Call for Participation
