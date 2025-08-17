@@ -5,6 +5,8 @@ title: Home
 # Synthetic Data: Representation and/vs Representativeness
 ## A Workshop at the Aarhus 2025 Conference
 
+**See you on Monday, August 18th at 9:00 am in [Building 5335 Room 184 of Aarhus University](https://international.au.dk/about/contact-and-visitors-service) or online (see your email for details)!**
+
 Synthetic data is increasingly used throughout the AI development pipeline to address three primary challenges surrounding data use - data scarcity, privacy concerns, and data representativeness or diversity.
 With the introduction of the AI Act, these three challenges take on new urgency.
 Creating synthetic data clearly addresses the data scarcity problem and over a decade of research has interrogated the possibilities of differential privacy, yet little attention has been paid to whether and how data diversity is addressed in these systems.
