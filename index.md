@@ -21,4 +21,4 @@ In this workshop we will explore synthetic data with a view to this plurality of
 {% endfor %}
 </div>
 
-Organizers: Hannah Devinney, Katherine Harrison, Vagrant Gautam, Irina Shklovski, Katta Spiel, and Eddie Ungless
+Organizers: Hannah Devinney, Katherine Harrison, Vagrant Gautam, Irina Shklovski, and Eddie Ungless

@@ -13,7 +13,6 @@ Organized by:
 - Katherine Harrison (_Linköping University_)
 - Vagrant Gautam (_Saarland University_)
 - Irina Shklovski (_University of Copenhagen_, _Linköping University_)
-- Katta Spiel (_TU Wien_)
 - Eddie Ungless (_University of Edinburgh_)
 
 Synthetic data promises to address three key concerns for data-driven technologies: sparsity, privacy, and bias or lack of diversity.
